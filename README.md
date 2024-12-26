@@ -13,9 +13,31 @@ Easily download your favorite tracks from Your private 'liked songs' playlist in
 
 ---
 
+## 📦 Preperation
+
+Go to takeout.google.com
+Deselect all and scroll down to 'YouTube and YouTube Music'
+Click 'all data included' and deselect all
+Only select 'Music-Library-Songs'
+Export then Unzip the .csv file
+
+
 ## 📦 Installation
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/youtube-mp3-downloader.git
+   git clone https://github.com/yourusername/YoutubeMusicDownloader.git
    cd youtube-mp3-downloader
+   
+2. Install the Required Dependancies
+   ```bash
+   pip install -r requirements.txt
+   
+3. Point the program to your CSV file location
+   ```bash
+   CSV_FILE_LOCATION = "<Your_File_Location>"  # Replace with your CSV file path
+
+4. Run the app
+   ```bash
+   python app.py
+   
