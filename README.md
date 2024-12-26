@@ -6,9 +6,8 @@ Easily download your favorite tracks from Your private 'liked songs' playlist in
 
 ## 🌟 Features
 - **High-Quality MP3 Downloads**: Get audio in crisp, top-notch quality.  
-- **Fast and Reliable**: Built for speed with no compromises on accuracy.  
-- **Simple Interface**: Intuitive and easy to use.  
-- **Supports Playlists**: Download entire playlists with a single click.  
+- **Fast and Reliable**: Built for speed with no compromises on accuracy.   
+- **Download from Liked Songs**: Download your entire private playlist in an instant.  
 - **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.  
 
 ---
