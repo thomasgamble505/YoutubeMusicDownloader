@@ -15,9 +15,13 @@ Easily download your favorite tracks from Your private 'liked songs' playlist in
 ## 📦 Preperation
 
 Go to takeout.google.com
+
 Deselect all and scroll down to 'YouTube and YouTube Music'
+
 Click 'all data included' and deselect all
+
 Only select 'Music-Library-Songs'
+
 Export then Unzip the .csv file
 
 
