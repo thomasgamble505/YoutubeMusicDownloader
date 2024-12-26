@@ -1,7 +1,7 @@
 # YoutubeMusicDownloader
 Download songs from Youtube Music (including 'liked music' folder)
 
-#INSTRUCTIONS#
+# INSTRUCTIONS
 
 1. Navigate to takeout.google.com
 
