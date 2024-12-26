@@ -1,16 +1,21 @@
-# YoutubeMusicDownloader
-Download songs from Youtube Music (including 'liked music' folder)
+# 🎵 YouTube Music MP3 Downloader
 
-# INSTRUCTIONS
+Easily download your favorite tracks from Your private 'liked songs' playlist in YouTube Music in MP3 format with this user-friendly and minimal downloader. 🎧  
 
-1. Navigate to takeout.google.com
+---
 
-2. Deselect all, and scroll down until you reach 'Youtube and Youtube Music'
+## 🌟 Features
+- **High-Quality MP3 Downloads**: Get audio in crisp, top-notch quality.  
+- **Fast and Reliable**: Built for speed with no compromises on accuracy.  
+- **Simple Interface**: Intuitive and easy to use.  
+- **Supports Playlists**: Download entire playlists with a single click.  
+- **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.  
 
-3. Click on 'All YouTube data included' and deselct all, scroll down and select music-library-songs
+---
 
-4. Press next and export however you like
+## 📦 Installation
 
-5. Unzip the downloaded file and modify the python code to point to the directory of your .csv
-
-6. Run the .py file and have a coffee, enjoy your downloaded songs!
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/youtube-mp3-downloader.git
+   cd youtube-mp3-downloader
